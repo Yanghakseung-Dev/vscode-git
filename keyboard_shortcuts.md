@@ -60,5 +60,12 @@
 
 
 
+# 마크다운 미리보기
+
+단축키: `ctrl+shfit+v`  
+또한 옆에서 미리보기를 하면서 수정까지 실시간으로 반영되게 할 수도 있습니다.
+
+![markdown](./img\20190317205420.png)
+
 참고 URL   
 > https://demun.github.io/vscode-tutorial/shortcuts/
