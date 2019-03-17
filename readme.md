@@ -41,3 +41,13 @@ push를 선택하고 원격 저장소에 commit 한 부분을 적용 한다.
 
 ![gitpush1](./img/20190317194540.png)
 ![gitpush2](./img/20190317194935.png)
+
+
+7. 이미 존재하는 GitHub 저장소가 존재할 경우 연동  
+터미널 창으로 이동하여 아래와 같이 git clone 명령어로 해당 정보를 가져온다.
+
+```
+git clone https://github.com/Yanghakseung-Dev/markdown-study.git
+```
+
+![gitclone-repo](./img/20190317203843.png)
