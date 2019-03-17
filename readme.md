@@ -18,13 +18,26 @@ git config --global user.name "이름"
 git config --global user.email "이메일"
 ```
 
-3. github 에서 Repository를 생성하기
+3. github 에서 Repository를 생성하기 및 저장소 주소
 
-![createRepository][createRepo]  
-[createRepo]: https://github.com/Yanghakseung-Dev/vscode-git/blob/master\img\20190317190656.png "create Repository"
+![createRepository](./img/20190317190656.png)  
+![repository](./img/20190317190740.png)  
 
 4. VSCode에서 git clone 하기  
 `ctrl+shift+p` 를 눌러 명령팔렛트를 열어서 `git clone` 를 누릅니다.
 
+![gitclone1](./img/20190317190929.png) 
+![gitclone2](./img/20190317190947.png) 
+![gitclone3](./img/20190317191036.png) 
+
 5. 커밋하기  
 커밋 메시지를 적고, ctrl+Enter 을 눌러도 되고, 상단에 커밋아이콘을 클릭해도 됩니다.
+
+![gitcommit1](./img/20190317194109.png)
+![gitcommit2](./img/20190317194147.png)
+
+6. 원격 저장소에 push 하기 
+push를 선택하고 원격 저장소에 commit 한 부분을 적용 한다.
+
+![gitpush1](./img/20190317194540.png)
+![gitpush2](./img/20190317194935.png)
